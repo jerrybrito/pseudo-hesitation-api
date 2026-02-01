@@ -1,0 +1,2 @@
+# Requires: forgotten-entropy
+# (Not available on PyPI)
